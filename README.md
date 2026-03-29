@@ -41,9 +41,9 @@ const kunal = {
 
 <div align="center">
 
-| 🥇 SIH 2025 Winner | 🥉 Hackfest 2025 — 3rd/80+ Teams | 🌍 GSSoC'25 — Rank 59 Nationally |
+| 🥇 SIH 2025 Winner | 🥉 Hackfest 2025 — 3rd/80+ Teams | 🌍 GSSoC'25 |
 |:---:|:---:|:---:|
-| 1st place among 5 finalists in a 36-hour national sprint | IIT (ISM) Dhanbad's flagship annual hackathon | Contributed to 200+ open-source repositories |
+| 1st place among 5 finalists in a 36-hour national sprint | IIT (ISM) Dhanbad's flagship annual hackathon | Ranked 59th in a national open-source program competing across 200+ contributors |
 
 </div>
 
