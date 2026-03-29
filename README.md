@@ -172,12 +172,12 @@ const kunal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KunalVerma2468&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalVerma2468&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kunalverma2512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalverma2512&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalVerma2468&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalverma2512&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -187,7 +187,7 @@ const kunal = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalVerma2468&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalverma2512&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -219,7 +219,7 @@ const kunal = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KunalVerma2468&color=302b63&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=kunalverma2512&color=302b63&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
