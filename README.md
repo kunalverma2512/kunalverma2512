@@ -172,8 +172,8 @@ const kunal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunalverma2512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalverma2512&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kunalverma2512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalverma2512&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
 <br/>
 
